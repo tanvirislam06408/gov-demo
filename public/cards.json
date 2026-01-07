@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title_bn": "জাতীয় জরুরি সেবা",
+    "title_en": "National Emergency",
+    "number": "999",
+    "category_bn": "সার্বজনীন"
+  },
+  {
+    "id": 2,
+    "title_bn": "পুলিশ",
+    "title_en": "Police",
+    "number": "999",
+    "category_bn": "পুলিশ"
+  },
+  {
+    "id": 3,
+    "title_bn": "ফায়ার সার্ভিস",
+    "title_en": "Fire Service",
+    "number": "999",
+    "category_bn": "ফায়ার"
+  },
+  {
+    "id": 4,
+    "title_bn": "অ্যাম্বুলেন্স",
+    "title_en": "Ambulance",
+    "number": "1994-999999",
+    "category_bn": "স্বাস্থ্য"
+  },
+  {
+    "id": 5,
+    "title_bn": "নারী ও শিশু সহায়তা",
+    "title_en": "Women & Child Helpline",
+    "number": "109",
+    "category_bn": "সহায়তা"
+  },
+  {
+    "id": 6,
+    "title_bn": "দুদক",
+    "title_en": "Anti-Corruption",
+    "number": "106",
+    "category_bn": "সরকারি"
+  },
+  {
+    "id": 7,
+    "title_bn": "বিদ্যুৎ বিভ্রাট",
+    "title_en": "Electricity Outage",
+    "number": "16216",
+    "category_bn": "বিদ্যুৎ"
+  },
+  {
+    "id": 8,
+    "title_bn": "ব্র্যাক",
+    "title_en": "Brac",
+    "number": "16445",
+    "category_bn": "এনজিও"
+  },
+  {
+    "id": 9,
+    "title_bn": "বাংলাদেশ রেলওয়ে",
+    "title_en": "Bangladesh Railway",
+    "number": "163",
+    "category_bn": "পরিবহন"
+  }
+]
