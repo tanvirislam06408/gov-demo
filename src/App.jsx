@@ -19,9 +19,9 @@ function App() {
            <Hero></Hero>
          </section>
          <section className='bg-[rgba(245,255,246,1)]'>
-         <div className='grid grid-cols-12 h-auto max-w-10/12 mx-auto'>
+         <div className='md:grid flex flex-col-reverse md:grid-cols-12 h-auto max-w-10/12 mx-auto'>
            {/* cards */}
-            <div className='col-span-9'>
+            <div className='md:col-span-9'>
               <Cards></Cards>
             </div>
             {/* history */}

@@ -8,7 +8,7 @@ const Cards = () => {
     
     return (
         <div className='mt-8'>
-          <div className='grid grid-cols-3 gap-10 box-border p-3.5 '>
+          <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 box-border  p-3.5 '>
             {
             data.map(card=>  <Card key={card.id} card={card}></Card>)
           }
